@@ -3,3 +3,4 @@ results/
 *.data
 !final.data
 log_*
+!log_01
